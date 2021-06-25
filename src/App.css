@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish';
+  font-weight: bold;
+}
+.wrapper{
+  padding: 73px 15px; 
+  position: relative;
+}
+.header__title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 36px;
+}
+.header__devider{
+  width: 56px;
+  height: 2px;
+  background-color: #000;
+  position: absolute;
+  left: 48.5%;
+  margin-top: 26px;
+}
+.header__text{
+  text-align: center;
+  font-size: 18px;
+  color: #7D7987;
+  max-width: 952px;
+  margin: 0 auto;
+  padding-top: 60px;
+  padding-bottom: 80px;
+  font-weight: 300;
+}
+.bg-1{
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: -26.18%;
+  top: 10%;
+  bottom: 0%;
+  max-width: 100%;
+}
+.bg-2{
+  position: absolute;
+  z-index: -1;
+  left: 75.21%;
+  right: 17.94%;
+  bottom:42.6%;
+  max-width: 100%;
+}
+.button{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  color: #458FF6;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 60px;
+  border: 1.4px solid #458FF6;
+  box-sizing: border-box;
+  border-radius: 55px;
+  padding: 1px 51px 3px 51px;
+  background-color: rgba(255, 255, 255, 0);
+  margin-top: 72px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: #458FF6;
+  border: 1.4px solid #fff;
+  transition: .5s;
+  color: #fff;
+}
+@media screen and (max-width: 1280px){
+  .bg-2{
+    left: 80.21%;
+    bottom: 10%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .bg-2{
+    left: 55.21%;
+    bottom: 10%;
+  }
+  .header__devider{
+    position: absolute;
+    left: 46%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .bg-1{
+    top: 20%;
+    bottom: 0%;
+    max-width: 100%;
+  }
+  .bg-2{
+    left: 55.21%;
+    bottom: 17%;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .header__devider{
+    position: absolute;
+    left: 42%;
+  }
+}
+
+@media screen and (max-width: 425px){
+  .bg-1{
+    top: 25%;
+    bottom: 0%;
+    max-width: 100%;
+  }
+}

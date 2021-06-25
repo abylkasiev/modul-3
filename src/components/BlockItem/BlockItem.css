@@ -1,0 +1,15 @@
+.block{
+    background-color: #fff;
+    max-width: 350px;
+    padding: 54px 50px 46px 39px;
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+}
+.block__title{
+    margin-top: 22px;
+    line-height: 56px;
+}
+.block__text{
+    font-family: 'Mulish';
+    font-weight: 300;
+}
