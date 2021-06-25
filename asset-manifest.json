@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/modul-3/static/css/main.72ade8f6.chunk.css",
+    "main.js": "/modul-3/static/js/main.92467479.chunk.js",
+    "main.js.map": "/modul-3/static/js/main.92467479.chunk.js.map",
+    "runtime-main.js": "/modul-3/static/js/runtime-main.2796c7f2.js",
+    "runtime-main.js.map": "/modul-3/static/js/runtime-main.2796c7f2.js.map",
+    "static/js/2.a84d8c84.chunk.js": "/modul-3/static/js/2.a84d8c84.chunk.js",
+    "static/js/2.a84d8c84.chunk.js.map": "/modul-3/static/js/2.a84d8c84.chunk.js.map",
+    "static/js/3.5cc259b9.chunk.js": "/modul-3/static/js/3.5cc259b9.chunk.js",
+    "static/js/3.5cc259b9.chunk.js.map": "/modul-3/static/js/3.5cc259b9.chunk.js.map",
+    "index.html": "/modul-3/index.html",
+    "static/css/main.72ade8f6.chunk.css.map": "/modul-3/static/css/main.72ade8f6.chunk.css.map",
+    "static/js/2.a84d8c84.chunk.js.LICENSE.txt": "/modul-3/static/js/2.a84d8c84.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/modul-3/static/media/Mulish-Light.a8e3377b.woff2",
+    "static/media/bg1.99f1d891.png": "/modul-3/static/media/bg1.99f1d891.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2796c7f2.js",
+    "static/js/2.a84d8c84.chunk.js",
+    "static/css/main.72ade8f6.chunk.css",
+    "static/js/main.92467479.chunk.js"
+  ]
+}
